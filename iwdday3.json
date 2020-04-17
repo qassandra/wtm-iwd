@@ -1,4 +1,5 @@
-{   name: 'IWD 2020 - Day 3',
+{   
+    name: 'IWD 2020 - Day 3',
     description: 'International Womens Day - Day 3',
     imageUrl: 'https://www.womentechmakers.com/static/images/IWD19_Share_FB.png',
     startDate: '16-5-2020',
