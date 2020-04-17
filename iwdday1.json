@@ -1,0 +1,53 @@
+{   
+    name: 'IWD 2020 - Day 1',
+    description: 'International Womens Day - Day 2',
+    imageUrl: 'https://www.womentechmakers.com/static/images/IWD19_Share_FB.png',
+    startDate: '9-5-2020',
+    endDate: '9-5-2020',
+    startTime: '14:00',
+    endTime: '16:00',
+    speakers: [
+       {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Viranita Julianti & Hasna Khairunnisa ',
+        description: 'Welcoming from WTM Ambassadors',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Fransiska P.W. Hadiwidjana',
+        description: 'Know Your Worth and Ask for It',
+        role:'Founder Prelo Indonesia',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Florentin Anggraini Purnama',
+        description: 'Google Cloud Platform',
+        role:'Data Scientist at OVO',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      }
+    ],
+    participants: [
+      {
+        uid: 'sjdhjsd0128012',
+      },
+      {
+        uid: 'gjddjsd012sd12',
+      }
+    ],
+    prizes: [
+      {
+        name: 'Dicoding Course',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+        quantity: '3',
+        description: 'Free 3 Dicoding Course for the most active 3 Participants!'
+      },
+      {
+        name: 'T-Shirt',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+        quantity: '10',
+        description: 'Free IWD 2020 T-Shirt for the most active 10 Participants!'
+      }
+    ]
+}

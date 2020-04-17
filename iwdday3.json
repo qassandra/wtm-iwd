@@ -1,0 +1,55 @@
+{   name: 'IWD 2020 - Day 3',
+    description: 'International Womens Day - Day 3',
+    imageUrl: 'https://www.womentechmakers.com/static/images/IWD19_Share_FB.png',
+    startDate: '16-5-2020',
+    endDate: '16-5-2020',
+    startTime: '14:00',
+    endTime: '16:00',
+    speakers: [
+      {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Nadine Siregar',
+        description: 'Pay it Forward by Contributing to Community',
+        role: 'Founder Generation Girl, Ex-Product Engineer Go-Jek',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Siti Nurlaelasari',
+        description: 'Using Google Analytics to make your instagram more engaging',
+        role: 'Pintek',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'd23srs67jkjdf62uh03s',
+        name: 'Andrew Darmadi',
+        description: 'Women Empowerment Through Technology',
+        role: 'CEO Halosis',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      }
+    ],
+    participants: [
+      {
+        uid: 'sjdhjsd0128012',
+      },
+      {
+        uid: 'gjddjsd012sd12',
+      }
+    ],
+    prizes: [
+      {
+        name: 'Dicoding Course',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+        quantity: '3',
+        description: 'Free 3 Dicoding Course for the most active 3 Participants!'
+      },
+      {
+        name: 'T-Shirt',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+        quantity: '10',
+        description: 'Free IWD 2020 T-Shirt for the most active 10 Participants!'
+      }
+    ]
+}
+
+

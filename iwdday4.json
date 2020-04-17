@@ -1,0 +1,55 @@
+{
+      streamerId: 'sjkdhjsdhq928jahskds19',
+      name: 'IWD 2020 - Day 4',
+      description: 'International Womens Day - Day 4',
+      imageUrl: 'https: //www.womentechmakers.com/static/images/IWD19_Share_FB.png',
+      startDate: '4-4-2020',
+      endDate: '4-4-2020',
+      startTime: '12: 00',
+      endTime: '14: 00',
+      speakers: [
+     {
+        uid: 'oosrs67162uhjs43s',
+        name: 'Deany Jaghdour',
+        description: 'The Truth: Self-Confidence Isn't Only About You',
+        role :'VP Strategy at Pintek',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'd23srs67jkjdf62uh03s',
+        name: 'Galuh Sahid',
+        description: 'A Whirlwind Tour of Machine Learning with TensorFlow',
+        role: 'Data Scientist at Gojek, Co-host Kartini Teknologi Podcast',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      },
+      {
+        uid: 'd23srs67jkjdf62uh03s',
+        name: 'Vina Zerlina',
+        description: 'Product',
+        role: 'Product Design at STOQO',
+        photoURL: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png'
+      }
+],
+      participants: [
+      {
+            uid: 'sjdhjsd0128012',
+      },
+      {
+            uid: 'gjddjsd012sd12',
+      }
+],
+      prizes: [
+    {
+          name: 'Dicoding Course',
+          photoURL: 'https: //zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+          quantity: '3',
+          description: 'Free 3 Dicoding Course for the most active 3 Participants!'
+    },
+    {
+          name: 'T-Shirt',
+          photoURL: 'https: //zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+          quantity: '10',
+          description: 'Free IWD 2020 T-Shirt for the most active 10 Participants!'
+    }
+  ]
+}
