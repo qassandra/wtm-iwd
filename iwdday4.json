@@ -3,8 +3,8 @@
       name: 'IWD 2020 - Day 4',
       description: 'International Womens Day - Day 4',
       imageUrl: 'https: //www.womentechmakers.com/static/images/IWD19_Share_FB.png',
-      startDate: '4-4-2020',
-      endDate: '4-4-2020',
+      startDate: '23-5-2020',
+      endDate: '23-5-2020',
       startTime: '12: 00',
       endTime: '14: 00',
       speakers: [
